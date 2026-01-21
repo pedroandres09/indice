@@ -15,7 +15,7 @@ Cuando finaliza la estafa, el estafador cierra la tienda online falsa, se queda 
 # ¿Cómo prevenirla?
 Revisar siempre la URL de la tienda, desconfiar de precios excesivamente bajos, comprobar opiniones reales, evitar pagar por transferencia o Bizum y usar tarjetas virtuales o métodos seguros.
 
-# ¿Qué hacer si ahs caído en ésta estafa? 
+# ¿Qué hacer si has caído en ésta estafa? 
 Si has caído en la estafa de una tienda online falsa, lo primero es contactar con tu banco o entidad de pago para bloquear la transacción o intentar recuperar el dinero. A continuación, guarda todas las pruebas como capturas de pantalla de la web, correos electrónicos, recibos o cualquier comunicación con la tienda fraudulenta. Debes presentar una denuncia ante la Policía o la Guardia Civil y, si es posible, informar al INCIBE (017) para recibir asistencia y orientación sobre cómo proteger tus datos. También es recomendable cambiar contraseñas y vigilar tus movimientos bancarios posteriores, ya que los estafadores podrían intentar usar tus datos para nuevos fraudes. Actuar rápido aumenta las posibilidades de minimizar pérdidas y evita que la misma estafa afecte a otras personas.
 
 # Conclusión 
