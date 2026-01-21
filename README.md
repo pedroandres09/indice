@@ -11,4 +11,10 @@ El phishing es una estafa digital en la que un atacante se hace pasar por una em
 # ¿Quién cae en ésta estafa?
 Caen principalmente personas que compran por internet y confían en ofertas muy llamativas, especialmente durante épocas de descuentos. Los estafadores aprovechan la prisa y el desconocimiento sobre seguridad digital para engañar a los usuarios.
 
+# ¿Cómo prevenirla?
+Revisar siempre la URL de la tienda, desconfiar de precios excesivamente bajos, comprobar opiniones reales, evitar pagar por transferencia o Bizum y usar tarjetas virtuales o métodos seguros.
+
+
+
+
 ![estafa_tienda_online_falsa](https://github.com/user-attachments/assets/d5ed938f-8084-4b13-821e-c6fd9c30b3e1)
