@@ -9,6 +9,9 @@ El phishing es una estafa digital en la que un atacante se hace pasar por una em
 # ¿Quién cae en ésta estafa?
 Caen principalmente personas que compran por internet y confían en ofertas muy llamativas, especialmente durante épocas de descuentos. Los estafadores aprovechan la prisa y el desconocimiento sobre seguridad digital para engañar a los usuarios.
 
+# ¿Qué hace el estafador después de la estafa?
+Cuando finaliza la estafa, el estafador cierra la tienda online falsa, se queda con el dinero de las víctimas y, si ha recogido datos personales o bancarios, puede intentar hacer más fraudes o venderlos. Después desaparece cambiando dominios y cuentas, dejando a las víctimas sin producto ni posibilidad de reclamar, y en muchos casos repite el mismo método con nuevas webs para estafar a más personas y si te ha robado datos puede cometer otros fraudes como compras no autorizadas, transferencias de dinero o abrir cuentas a tu nombre, y también pueden vender esa información en la dark web, un mercado ilegal donde otros delincuentes compran datos para hacer más estafas, crear identidades falsas o enviar correos y mensajes fraudulentos. Esto hace que el daño de la estafa inicial pueda extenderse y generar pérdidas económicas y problemas de seguridad a largo plazo.
+
 # ¿Cómo prevenirla?
 Revisar siempre la URL de la tienda, desconfiar de precios excesivamente bajos, comprobar opiniones reales, evitar pagar por transferencia o Bizum y usar tarjetas virtuales o métodos seguros.
 
