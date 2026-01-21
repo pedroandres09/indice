@@ -5,6 +5,8 @@ La estafa empieza cuando un usuario accede a las páginas web fraudulentas a tra
 [Enlace 1 ](https://elpais.com/espana/catalunya/2022-08-26/la-policia-nacional-desmantela-49-tiendas-digitales-fraudulentas-con-centenares-de-victimas-en-toda-espana.html?utm_source=chatgpt.com)
 [Enlace 2 ](https://www.interior.gob.es/opencms/gl/detalle/articulo/La-Policia-Nacional-desmantela-49-tiendas-online-fraudulentas-dedicadas-a-ofertar-y-vender-productos-que-nunca-llegaban-a-enviar/?utm_source=chatgpt)
 
+# ¿Qué es el phising?
+El phishing es una estafa digital en la que un atacante se hace pasar por una empresa, institución o persona confiable para engañar a los usuarios y robarles información personal como contraseñas, datos bancarios o accesos a cuentas; normalmente se realiza mediante correos electrónicos, mensajes o páginas web falsas que aparentan ser legítimas y suelen usar mensajes urgentes para presionar a la víctima a hacer clic en un enlace o ingresar sus datos.
 
 
 ![estafa_tienda_online_falsa](https://github.com/user-attachments/assets/d5ed938f-8084-4b13-821e-c6fd9c30b3e1)
