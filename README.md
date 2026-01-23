@@ -21,8 +21,9 @@ Si has caído en la estafa de una tienda online falsa, lo primero es contactar c
 # Conclusión 
 Las estafas de tiendas online falsas aprovechan la confianza de los usuarios y ofertas engañosas para robar dinero o datos. Ser precavido, verificar las webs y actuar rápido ante un fraude ayuda a minimizar daños y prevenir que otros caigan en el engaño.
 
-![estafa_tienda_online_falsa](https://github.com/user-attachments/assets/d5ed938f-8084-4b13-821e-c6fd9c30b3e1)
 
+
+<img width="1024" height="1536" alt="ChatGPT Image 23 ene 2026, 10_06_53" src="https://github.com/user-attachments/assets/e0ee4c9a-4895-471b-8cf6-bd7501036bb3" />
 
 [Enlace 1 ](https://elpais.com/espana/catalunya/2022-08-26/la-policia-nacional-desmantela-49-tiendas-digitales-fraudulentas-con-centenares-de-victimas-en-toda-espana.html?utm_source=chatgpt.com)
 [Enlace 2 ](https://www.interior.gob.es/opencms/gl/detalle/articulo/La-Policia-Nacional-desmantela-49-tiendas-online-fraudulentas-dedicadas-a-ofertar-y-vender-productos-que-nunca-llegaban-a-enviar/?utm_source=chatgpt)
